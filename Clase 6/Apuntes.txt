@@ -1,0 +1,31 @@
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb213910865743038</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>213910865743038</string>
+<key>FacebookDisplayName</key>
+<string>EntradasDemo</string>
+
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+  <string>fbapi</string>
+  <string>fb-messenger-api</string>
+  <string>fbauth2</string>
+  <string>fbshareextension</string>
+</array>
+
+
+
+Convierte codigo objc a swift
+https://objectivec2swift.com/#/home/main
+
+
+Tickets -> tiene el ejemplo completo
+Entradas -> Es con el que aprendo
